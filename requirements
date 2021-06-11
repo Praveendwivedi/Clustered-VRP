@@ -1,0 +1,8 @@
+ortools
+matplotlib
+smac==0.8.0
+autocluster
+sklearn
+pandas
+pyclustering
+folium
